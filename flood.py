@@ -1,6 +1,3 @@
-# DDOS TCP FLOODER
-# FOR KIDS
-
 import socket
 import random
 import threading
@@ -32,3 +29,4 @@ for x in range(thread):
     thred.start()
 
 # DONE!
+# CDJ
