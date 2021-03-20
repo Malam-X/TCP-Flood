@@ -1,2 +1,12 @@
 # TCP-Flood
-DDOS
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-v0.2-blue">
+  <img src="https://img.shields.io/badge/Python-v3.7%2B-blue">
+  <img src="https://komarev.com/ghpvc/?username=Malam-X&label=Views&color=blue&style=plastic">
+</p>
+
+```
+ git clone https://github.com/Malam-X/TCP-Flood
+ cd TCP-Flood
+ python flood.py
+```
